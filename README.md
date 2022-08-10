@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamil
 - 👀 I'm interested in developing as a python developer
-- 🌱 I see potential in blockchain and web3 technology in which I am currently developing
+- 🌱 I see potential in blockchain and web3 technology in which I am currently developing for myself
 - 📫 How to reach me https://kamdev.pl
 
 ## Connect with me
