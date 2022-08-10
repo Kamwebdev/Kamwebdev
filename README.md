@@ -22,6 +22,7 @@
 ## I worked as a systems administrator
 <img align="left" alt="medium" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 	
 <!-- 
 ## Github Statistics
