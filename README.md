@@ -2,6 +2,7 @@
 - 👀 I'm interested in developing as a python developer and creating bigdata solutions using modern AI models.
 - 🌱 I see potential in blockchain and web3 technology in which I am currently developing for myself
 - 📫 How to reach me https://kamdev.pl
+- 🕮  My blog https://blog.kamdev.pl
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kamil-webdev)
